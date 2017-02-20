@@ -15,6 +15,7 @@
         <p>
             <asp:Button ID="Button1" runat="server" Text="Button" />
         </p>
+        <p>CAMA</p>
     </form>
 </body>
 </html>
