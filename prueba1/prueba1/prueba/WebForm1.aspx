@@ -13,9 +13,9 @@
     </div>
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <p>
-            <asp:Button ID="Button1" runat="server" Text="Button" />
+            <asp:Button ID="Button1" runat="server" Text="Button" Width="126px" />
         </p>
-        <p>CAMA</p>
+        <input type="text" name="entrada" value="enter" />
     </form>
 </body>
 </html>
