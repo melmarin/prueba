@@ -16,6 +16,7 @@
             <asp:Button ID="Button1" runat="server" Text="Button" Width="126px" />
         </p>
         <input type="text" name="entrada" value="enter" />
+        <input type="number" value="numero"/>
         <p> Este es un comentario steven</p>
     </form>
 </body>
